@@ -1,0 +1,5 @@
+﻿  Graphic.cpp
+C:\Users\user\Documents\카카오톡 받은 파일\RE_CREATE_240609_그래픽\RE_CREATE\RE_CREATE\Graphic.cpp(5,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Documents\카카오톡 받은 파일\RE_CREATE_240609_그래픽\RE_CREATE\RE_CREATE\Graphic.cpp(5,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Documents\카카오톡 받은 파일\RE_CREATE_240609_그래픽\RE_CREATE\RE_CREATE\Graphic.cpp(395,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RE_CREATE.vcxproj -> C:\Users\user\Documents\카카오톡 받은 파일\RE_CREATE_240609_그래픽\RE_CREATE\x64\Debug\RE_CREATE.exe
