@@ -1,0 +1,233 @@
+﻿  CharClass.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(77,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(109,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(139,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(169,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(201,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(241,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(247,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(254,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(282,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(283,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(353,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(391,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(463,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(516,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(570,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(580,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Entity.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Entity.cpp(9,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Graphic.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Graphic.cpp(5,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Graphic.cpp(5,25): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Graphic.cpp(395,44): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(50,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(62,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(73,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(84,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(94,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(106,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(118,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(13,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(64,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(78,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(95,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(135,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(170,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(188,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(217,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(237,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(274,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(291,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(332,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(346,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(382,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(427,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(474,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(493,33): warning C4244: '인수': 'int'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(496,26): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(497,28): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(498,24): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(502,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(515,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(560,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(583,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(587,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(600,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(625,33): warning C4244: '인수': 'int'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(627,24): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(628,26): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(629,26): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(630,26): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.cpp(631,23): warning C4244: '인수': '_Ty'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Item.cpp
+  Location.cpp
+  main.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(77,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(109,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(139,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(169,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(201,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(241,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(247,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(254,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(282,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(283,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(353,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(391,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(463,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(516,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(570,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(580,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(50,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(62,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(73,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(84,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(94,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(106,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(118,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Player.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(77,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(109,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(139,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(169,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(201,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(241,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(247,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(254,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(282,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(283,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(353,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(391,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(463,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(516,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(570,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(580,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(77,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(109,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(139,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(169,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(201,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(241,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(247,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(254,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(282,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(283,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(353,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(391,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(463,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(516,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(570,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(580,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(50,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(62,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(73,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(84,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(94,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(106,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(118,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Stage.cpp(150,38): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Stage.cpp(199,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(77,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(109,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(139,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(169,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(201,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(241,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(247,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(254,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(282,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(283,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(353,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(391,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(463,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(516,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(570,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\CharClass.h(580,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(50,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(62,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(73,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(84,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(94,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(106,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\RE_CREATE\Monster.h(118,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 1020 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  RE_CREATE.vcxproj -> C:\Users\sbcho\Desktop\수빈\대학교 이모저모\2학년 1학기\객지프\팀플\RE_CREATE\x64\Release\RE_CREATE.exe
